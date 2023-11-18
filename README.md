@@ -115,7 +115,7 @@ STEP 6: Profile Updating:
             
 Advantages:
 
-- it's adoptive. that means it can keep up with changes in user's intrest
+- it's adaptive. that means it can keep up with changes in user's intrest
 - Items recommended to one user is not the same to the items recommended to other users
 - it can capture specific interests of users can will even recommend niche , unpopular items
 
